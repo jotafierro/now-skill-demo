@@ -13,6 +13,8 @@ el skill y adaptarlo a tu propia semana.
 2. Copia `week-plan.md`, `current-week.md` y `backlog.md` a la raíz de tu proyecto, y edítalos
    con tu propia grilla y tu propio sprint.
 3. Corre `/now` en Claude Code.
+4. Para probarlo sin esperar la hora real: `/now --date 2026-09-24 --hour 4pm` (simula esa
+   fecha/hora sobre los datos de ejemplo). Solo para demo — en tu uso diario, corré `/now` sin flags.
 
 ## Estructura
 
